@@ -107,7 +107,7 @@ A compact, fully customizable desktop robot arm designed for small-scale automat
 
 ## 📚 Documentation
 
-📄 Full design details, diagrams, testing results, and methodology can be found in the [Project Report (PDF)](./RobotArm-ProjectReport.pdf).
+📄 Full design details, diagrams, testing results, and methodology can be found in the [Project Report (PDF)](./0.Documentation/RobotArm-ProjectReport.pdf).
 
 ---
 

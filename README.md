@@ -123,7 +123,7 @@ A compact, fully customizable desktop robot arm designed for small-scale automat
 
 ## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and distributed under the terms of the [GNU General Public License v3.0 (GPL-3.0)](./LICENSE).
 
 ---
 

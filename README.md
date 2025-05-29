@@ -2,6 +2,9 @@
 
 A compact, fully customizable desktop robot arm designed for small-scale automation tasks. Developed as part of a Bachelor of Engineering in Mechatronics at Technological University Dublin, this project integrates 3D-printed components, servo motor actuation, custom electronics, Arduino-based firmware, Bluetooth control, and an Android app interface.
 
+![Robot Arm CAD Render](./2.Mechanical/Renders/Render9.JPG)  
+*Figure: CAD render of the assembled Desktop Robot Arm*
+
 ---
 
 ## 📦 Features
